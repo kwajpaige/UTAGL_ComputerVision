@@ -1,4 +1,5 @@
 # UTAGL_ComputerVision
+NOTE: Data Files are too large for Github therefore HTML file is provided for viewing.
 The era of Deep Neural Networks has brought up Computer Vision and several use-cases of Computer Vision. It is used in several domains like Public Health, Agriculture, Retail, Automotive Industry, and Fitness for solving complex problems like Object recognition and classification, Human Pose Estimation, Customer Behavior tracking, etc. The purpose of this project is to explore Computer Vision using a CNN model.
 
 ## Bacground
