@@ -1,5 +1,7 @@
 # UTAGL_ComputerVision
-NOTE: Data Files are too large for Github therefore HTML file is provided for viewing.
+NOTE: Data Files are too large for Github therefore HTML file is provided for viewing. Please download the file and open in system viewer.
+Link to HTML file: https://github.com/kwajpaige/UTAGL_ComputerVision/blob/main/PaigeSingleton_ComputerVision_PlantSeedlings.html
+
 The era of Deep Neural Networks has brought up Computer Vision and several use-cases of Computer Vision. It is used in several domains like Public Health, Agriculture, Retail, Automotive Industry, and Fitness for solving complex problems like Object recognition and classification, Human Pose Estimation, Customer Behavior tracking, etc. The purpose of this project is to explore Computer Vision using a CNN model.
 
 ## Bacground
